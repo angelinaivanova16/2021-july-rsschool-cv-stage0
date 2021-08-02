@@ -12,3 +12,9 @@ I am good at HTML, CSS. I’m familiar with JavaScript and Vue. I have some know
 Karelian State Pedagogical Academy, the faculty of psychology (specialist), 2011.
 ## Experience
 I took a frontend development course in School of a young programmer and received a certificate.
+## Language skills
+A2
+## Sample code
+Please see the first examples of my code:
+* [HTML/CSS](https://github.com/angelinaivanova16/angelinaivanova16.github.io/blob/master/index.html) ([Результат](https://angelinaivanova16.github.io/))
+* [Vue.js](https://github.com/angelinaivanova16/firstvuejs)
