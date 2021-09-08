@@ -10,7 +10,7 @@
 <body>
     <div class="container">
         <header class="up">
-            <img src="img/foto.jpg">
+            <img class="avatar" src="img/foto.jpg" alt="avatar">
             <div>
                 <h1 class="name">Angelina Ivanova</h1>
                 <h2>Junior Front-End Developer (Vue.js)</h2>
@@ -51,10 +51,40 @@
             </div>
             <div class="item">
                 <h3>Code example</h3>
+                <pre>
+                    <code>
+                        let firstNumber = +prompt("Enter the first number");
+                        let sign = prompt("Enter a mathematical sign");
+                        let secondNumber = +prompt("Enter the second number");
+                        switch (sign) {
+                            case "+": {
+                                document.write(firstNumber + secondNumber)
+                                break;
+                            }
+                            case "-": {
+                                document.write(firstNumber - secondNumber)
+                                break;
+                            }
+                            case "*": {
+                                document.write(firstNumber * secondNumber)
+                                break;
+                            }
+                            case "/": {
+                                document.write(firstNumber / secondNumber)
+                                break;
+                            }
+                            default: {
+                                document.write("Error")
+                            }
+                        }
+                    </code>
+                </pre>
             </div>
         </main>
         <footer>
-
+            <p><a href="https://github.com/angelinaivanova16">Visit my GitHub</a></p>
+            <p>&#169 2021</p>
+            <p><a href="https://rs.school/js/"><img src="img/rs_school_js.svg" alt="logo" height="25"></a></p>
         </footer>
     </div>
 </body>
