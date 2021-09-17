@@ -107,24 +107,3 @@ main {
   pre {
     margin-left: -34%;
   }
-
-  /* @media only screen and (max-width : 320px) {
-      body {
-        background-color: #B3B9B3;
-    }
-    .container {
-        font-family: "Roboto-Regular";
-        margin: auto;
-        width: 70%;
-        background-color: white;
-        color: gray;
-    }
-      main {
-        display: grid;
-        grid-template-rows: 270px repeat(2, 150px) 450px;
-        grid-template-columns: repeat(12, 1fr);
-        margin: 0;
-    
-        font-family: 'Roboto', sans-serif;
-    }
-  } */
