@@ -1,1 +1,4 @@
-https://angelinaivanova16.github.io/rsschool-cv/cv
+
+https://angelinaivanova16.github.io/2021-july-rsschool-cv-stage0/cv
+
+https://angelinaivanova16.github.io/2021-july-rsschool-cv-stage0/
